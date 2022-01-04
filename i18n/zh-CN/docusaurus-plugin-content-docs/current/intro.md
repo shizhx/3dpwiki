@@ -4,6 +4,6 @@ authors: shizhx
 tags: [hello, docusaurus]
 ---
 
-# About This Site
+# 关于本站
 
 TODO

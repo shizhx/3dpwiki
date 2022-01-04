@@ -17,8 +17,8 @@ const config = {
   projectName: '3dpwiki', // Usually your repo name.
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh-CN'],
+    defaultLocale: 'zh-CN',
+    locales: ['zh-CN', 'en'],
   },
 
   presets: [

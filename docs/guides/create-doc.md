@@ -4,6 +4,4 @@ authors: shizhx
 tags: [hello, docusaurus]
 ---
 
-# About This Site
-
-TODO
+# How To Create a Doc

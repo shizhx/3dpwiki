@@ -3,12 +3,12 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
-    "message": "Tutorial - Basics",
-    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Basics": {
+    "message": "基础知识",
+    "description": "The label for category Basics in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutorial - Extras",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "向导",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
   }
 }

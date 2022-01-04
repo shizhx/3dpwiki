@@ -1,9 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 authors: shizhx
 tags: [hello, docusaurus]
 ---
 
-# About This Site
-
-TODO
+# 如何编辑文档

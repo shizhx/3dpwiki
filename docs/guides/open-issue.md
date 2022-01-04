@@ -1,9 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 authors: shizhx
 tags: [hello, docusaurus]
 ---
 
-# About This Site
-
-TODO
+# How To Open a issue
