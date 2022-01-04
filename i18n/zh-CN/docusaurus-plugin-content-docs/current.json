@@ -3,24 +3,24 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Basics": {
+  "sidebar.main.category.Basics": {
     "message": "基础知识",
-    "description": "The label for category Basics in sidebar tutorialSidebar"
+    "description": "The label for category Basics in sidebar main"
   },
-  "sidebar.tutorialSidebar.category.Guides": {
+  "sidebar.main.category.Guides": {
     "message": "向导",
-    "description": "The label for category Guides in sidebar tutorialSidebar"
+    "description": "The label for category Guides in sidebar main"
   },
-  "sidebar.tutorialSidebar.category.Printers": {
+  "sidebar.main.category.Printers": {
     "message": "打印机",
-    "description": "The label for category Printers in sidebar tutorialSidebar"
+    "description": "The label for category Printers in sidebar main"
   },
-  "sidebar.tutorialSidebar.category.Tutorials": {
+  "sidebar.main.category.Tutorials": {
     "message": "教程",
-    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+    "description": "The label for category Tutorials in sidebar main"
   },
-  "sidebar.tutorialSidebar.category.DIY": {
+  "sidebar.main.category.DIY": {
     "message": "DIY",
-    "description": "The label for category DIY in sidebar tutorialSidebar"
+    "description": "The label for category DIY in sidebar main"
   }
 }
