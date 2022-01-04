@@ -10,5 +10,17 @@
   "sidebar.tutorialSidebar.category.Guides": {
     "message": "向导",
     "description": "The label for category Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Printers": {
+    "message": "打印机",
+    "description": "The label for category Printers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "教程",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.DIY": {
+    "message": "DIY",
+    "description": "The label for category DIY in sidebar tutorialSidebar"
   }
 }
