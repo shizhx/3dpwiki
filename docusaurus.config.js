@@ -32,6 +32,9 @@ const config = {
           editUrl: 'https://github.com/shizhx/3dpwiki/edit/main/',
           editLocalizedFiles: true,
           editCurrentVersion: true,
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+          sidebarCollapsible: true,
         },
         blog: {
           showReadingTime: true,
