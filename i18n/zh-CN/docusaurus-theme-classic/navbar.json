@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "3D 打印知识库",
+    "description": "The title in the navbar"
+  },
+  "item.label.Wiki": {
+    "message": "知识库",
+    "description": "Navbar item with label Wiki"
+  },
+  "item.label.Blog": {
+    "message": "博客",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

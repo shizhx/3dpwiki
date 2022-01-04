@@ -2,35 +2,35 @@ import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import Translate from '@docusaurus/Translate';
+import {translate} from '@docusaurus/Translate';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
+        <h1 className="hero__title">
+          <Translate id="home.header.title" description="Title of home page header">
+            3D Printing Wiki
+          </Translate>
+        </h1>
+        <p className="hero__subtitle">
+          <Translate id="home.header.subtitle" description="Subtitle of home page header">
+          All 3D printing knowledge here
+          </Translate>
+        </p>
       </div>
     </header>
   );
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${translate({id: "home.title", message: "3D Printing Wiki", description: "home title"})}`}
+      description={`${translate({id: "home.description", message: "3D printing", description: "home description"})}`}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
