@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'How To Contribute',
-                to: '/docs/intro',
+                to: '/docs/guides/intro',
               },
             ],
           },

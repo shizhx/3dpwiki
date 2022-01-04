@@ -1,36 +1,35 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
+import Translate from '@docusaurus/Translate';
+import {translate} from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: translate({id: "home.feature.everything.title", message: 'Everything You Need'}),
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+      <Translate id="home.feature.everything.description">
+        3D Printing Wiki would collect as much as possible documents.
+      </Translate>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: translate({id: "home.feature.easy.title", message: 'Easy To Understand'}),
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+      <Translate id="home.feature.easy.description">
+        3D Printing Wiki would teach you step by step.
+      </Translate>
     ),
   },
   {
-    title: 'Powered by React',
+    title: translate({id: "home.feature.collaboration.title", message: 'Collaboration'}),
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <Translate id="home.feature.collaboration.description">
+        3D Printing Wiki hosted on GitHub so that everyone could create, edit, talk about any documents.
+      </Translate>
     ),
   },
 ];

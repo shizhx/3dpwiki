@@ -18,7 +18,7 @@ function HomepageHeader() {
         </h1>
         <p className="hero__subtitle">
           <Translate id="home.header.subtitle" description="Subtitle of home page header">
-          All 3D printing knowledge here
+          Ocean of 3D printing knowledge
           </Translate>
         </p>
       </div>

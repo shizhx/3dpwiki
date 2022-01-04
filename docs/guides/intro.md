@@ -1,7 +1,6 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 authors: shizhx
 tags: [hello, docusaurus]
 ---
-
-# 如何编辑文档
+# Intruduction

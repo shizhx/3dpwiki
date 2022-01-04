@@ -200,7 +200,7 @@
     "description": "Title of home page header"
   },
   "home.header.subtitle": {
-    "message": "所有 3D 打印的知识所在",
+    "message": "3D 打印知识的海洋",
     "description": "Subtitle of home page header"
   },
   "home.title": {
@@ -210,5 +210,23 @@
   "home.description": {
     "message": "3D 打印",
     "description": "home description"
+  },
+  "home.feature.everything.description": {
+    "message": "3D 打印知识库将会收集尽可能多的文档。"
+  },
+  "home.feature.easy.description": {
+    "message": "3D 打印知识库将会深入浅出地教会你相关知识点。"
+  },
+  "home.feature.collaboration.description": {
+    "message": "3D 打印知识库托管在 GitHub 上，因此所有人都可以创建、编辑、讨论任何文档。"
+  },
+  "home.feature.everything.title": {
+    "message": "应有尽有"
+  },
+  "home.feature.easy.title": {
+    "message": "深入浅出"
+  },
+  "home.feature.collaboration.title": {
+    "message": "开源协作"
   }
 }
