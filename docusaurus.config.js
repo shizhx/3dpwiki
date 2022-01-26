@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '3D Printing Wiki',
+  title: '3DPWIKI',
   tagline: 'All 3D printing knowledge here',
   url: 'https://www.3dpwiki.org',
   baseUrl: '/',
@@ -53,9 +53,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '3D Printing Wiki',
+        title: '3DPWIKI',
         logo: {
-          alt: '3D printing wiki Logo',
+          alt: '3DPWIKI Logo',
           src: 'img/logo.svg',
         },
         items: [
